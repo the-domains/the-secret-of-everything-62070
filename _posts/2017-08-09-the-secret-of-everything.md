@@ -1,18 +1,20 @@
 ---
 inFeed: true
-description: "For\na long time after I first learned about the 3 Principles – the so called ‘inside-out’\nunderstanding – I noticed I often felt I was “getting it” intellectually – but that\nsomething was still missing. \_ It seemed\nlike I wasn’t really getting it all at an experiential level."
-dateModified: '2017-08-09T14:22:21.626Z'
-datePublished: '2017-08-09T14:22:22.673Z'
+description: "For\na long time after I first learned about the 3 Principles – the so called ‘inside-out’\nunderstanding – I noticed I often felt I was “getting it” intellectually – but that\nsomething was still missing.\_\_ It seemed\nlike I wasn’t really getting it all at an experiential level."
+dateModified: '2017-08-09T14:32:38.926Z'
+datePublished: '2017-08-09T14:32:39.592Z'
 title: The Secret of Everything
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-09-the-secret-of-everything.md
 starred: false
 datePublishedOriginal: '2017-08-09T14:22:22.673Z'
-sourcePath: _posts/2017-08-09-the-secret-of-everything.md
 _type: Blurb
 
 ---
+![Photo by Josh Adamski](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa06b19d-0cb4-4b3f-b8c0-b46fbed11e68.png)
+
 # The Secret of Everything
 
 ## Don't Just "Get It" -- Experience It -- NOW!
