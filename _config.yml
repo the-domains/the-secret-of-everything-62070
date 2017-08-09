@@ -1,0 +1,26 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: The Secret of Everything
+layout_spectrum: 0.1966496491804719
+typography_spectrum: 0.5964649855159223
+color:
+  brandStrength: 0.06212321016937494
+  lightness: 0.16120876907370985
+  saturation: 0.3421751244459301
+  rhythmicContrast: 0.2447884287685156
+  brandColors:
+    - '#01080E'
+    - '#F7E6DF'
+    - '#92B4D0'
+    - '#004666'
+    - '#E5978B'
+content: []
+url: 'http://thesecretofeverything.com'
+title: The Secret of Everything
+description: '"Get It" - Experientially - NOW'
+github: true
