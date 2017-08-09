@@ -5,8 +5,8 @@ description: >-
   ‘inside-out’ understanding – I noticed I often felt I was “getting it”
   intellectually – but that something was still missing. It seemed like I wasn’t
   really getting it all at an experiential level.
-dateModified: '2017-08-09T15:50:30.325Z'
-datePublished: '2017-08-09T15:50:31.123Z'
+dateModified: '2017-08-09T15:51:30.197Z'
+datePublished: '2017-08-09T15:51:30.967Z'
 title: The Secret of Everything
 author:
   - name: Frank Mckenna
