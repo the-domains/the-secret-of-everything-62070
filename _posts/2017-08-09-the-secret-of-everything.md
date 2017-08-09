@@ -5,10 +5,12 @@ description: >-
   ‘inside-out’ understanding – I noticed I often felt I was “getting it”
   intellectually – but that something was still missing. It seemed like I wasn’t
   really getting it all at an experiential level.
-dateModified: '2017-08-09T15:45:03.668Z'
-datePublished: '2017-08-09T15:45:04.322Z'
+dateModified: '2017-08-09T15:50:30.325Z'
+datePublished: '2017-08-09T15:50:31.123Z'
 title: The Secret of Everything
-author: []
+author:
+  - name: Frank Mckenna
+    url: 'https://unsplash.com/@frankiefoto'
 publisher: {}
 via: {}
 sourcePath: _posts/2017-08-09-the-secret-of-everything.md
@@ -17,7 +19,7 @@ datePublishedOriginal: '2017-08-09T14:22:22.673Z'
 _type: Blurb
 
 ---
-![Photo by Frank McKenna](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa06b19d-0cb4-4b3f-b8c0-b46fbed11e68.png)
+![Don't Just "Get It" - Experience It - NOW!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa06b19d-0cb4-4b3f-b8c0-b46fbed11e68.png)
 
 # The Secret of Everything
 
