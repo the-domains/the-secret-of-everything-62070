@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-18T21:12:42.027Z'
-datePublished: '2017-08-18T21:12:42.816Z'
+dateModified: '2017-08-18T21:13:25.389Z'
+datePublished: '2017-08-18T21:13:26.325Z'
 title: The Secret of Everything
 author: []
 publisher: {}
