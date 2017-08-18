@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: "· \_\_\_\_ With Anxieties About The Future?"
-dateModified: '2017-08-18T15:00:57.111Z'
-datePublished: '2017-08-18T15:00:57.874Z'
+description: · With Anxieties About The Future?
+dateModified: '2017-08-18T21:11:25.129Z'
+datePublished: '2017-08-18T21:11:26.041Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -17,28 +17,30 @@ _type: Blurb
 
 ## Are You Still Struggling ...
 
-\*      With Anxieties About The Future?
+\* With Anxieties About The Future?
 
-\*      With Memories of The Past?
+\* With Memories of The Past?
 
-\*      With Painful Relationships?
+\* With Painful Relationships?
 
-\*      With Knowing How To Enjoy Real Success and Fulfilment?
+\* With Knowing How To Enjoy Real Success and Fulfilment?
 
-\*      With Uncomfortable Thoughts or Feelings?
+\* With Uncomfortable Thoughts or Feelings?
 
-\*      With Knowing and Experiencing Who and What You Truly Are?
+\* With Knowing and Experiencing Who and What You Truly Are?
 
 ## Would You Like - Instead - To ...
 
-\*      **End ALL The Struggle** -- Quickly and Easily?
+\* **End ALL The Struggle** -- Quickly and Easily?
 
-\*      **Understand How Life Works** -- and Who and What You Really Are? 
+\* **Understand How Life Works** -- and Who and What You Really Are?
 
-\*      **Go Even Deeper **-- To **Experience The Source of All Things** For Yourself?
+\* **Go Even Deeper **-- To **Experience The Source of All Things** For Yourself?
 
-## If you answered "YES" to any of these questions - then The Secret of Everything online program is for you! 
+If you answered **"YES" **to any of these questions ...
 
-## Sign Up for FREE NOW to find out how you can experience ...
+## The Secret of Everything online program is for you!
+
+## Sign Up NOW - to find out how you can experience ...
 
 # "The Secret of Everything"
