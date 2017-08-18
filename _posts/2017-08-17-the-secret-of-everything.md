@@ -1,86 +1,44 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-08-17T17:58:42.904Z'
-datePublished: '2017-08-17T17:58:43.659Z'
+description: "· \_\_\_\_ With Anxieties About The Future?"
+dateModified: '2017-08-18T15:00:57.111Z'
+datePublished: '2017-08-18T15:00:57.874Z'
 title: The Secret of Everything
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-17-the-secret-of-everything.md
 starred: false
 datePublishedOriginal: '2017-08-17T17:58:43.659Z'
-sourcePath: _posts/2017-08-17-the-secret-of-everything.md
 _type: Blurb
 
 ---
 # The Secret of Everything
 
-****
+## Are You Still Struggling ...
 
-## Are You Still Struggling??? 
+\*      With Anxieties About The Future?
 
-****
+\*      With Memories of The Past?
 
-## ... With Anxieties About The
-Future?   
+\*      With Painful Relationships?
 
-****
+\*      With Knowing How To Enjoy Real Success and Fulfilment?
 
-## ... With Memories of The
-Past?   
+\*      With Uncomfortable Thoughts or Feelings?
 
-****
+\*      With Knowing and Experiencing Who and What You Truly Are?
 
-## ... With Painful
-Relationships?   
+## Would You Like - Instead - To ...
 
-****
+\*      **End ALL The Struggle** -- Quickly and Easily?
 
-## ... With Knowing How To Enjoy
-Real Success and Fulfillment?
+\*      **Understand How Life Works** -- and Who and What You Really Are? 
 
-****
+\*      **Go Even Deeper **-- To **Experience The Source of All Things** For Yourself?
 
-## ... With Uncomfortable Thoughts
-or Feelings?
+## If you answered "YES" to any of these questions - then The Secret of Everything online program is for you! 
 
-****
+## Sign Up for FREE NOW to find out how you can experience ...
 
-## ... With Knowing and Experiencing
-Who and What You Truly Are?   
-
-****
-
-## Would You Like To ... 
-
-****
-
-## \*     
-End ALL The Struggle -- Quickly and
-Easily???
-
-****
-
-## \*     
-Understand Who and What You Are
--- and How Life Works???  
-
-****
-
-## \*     
-Go Even Deeper -- To Experience The
-Source of All Things For Yourself???
-
-****
-
-## If You Answered "Yes" To Any of These Questions -- Then ... 
-
-****
-
-## This Is Your Chance -- To Experience ...
-
-****
-
-# The Secret of Everything!
-
-****
+# "The Secret of Everything"
