@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-20T16:02:35.538Z'
-datePublished: '2017-08-20T16:02:36.121Z'
+dateModified: '2017-08-20T16:05:11.751Z'
+datePublished: '2017-08-20T16:05:12.846Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -34,7 +34,7 @@ _type: Article
 
 ## If you answered **"YES" **to any of these questions ...
 
-## The Secret of Everything online program is designed specially for you - to end ALL that struggle - quickly and easily!
+## The Secret of Everything online program is designed specially for you ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6aedd72a-12fc-428d-b1f3-302b91f16af0.jpg)
 
 ## You'll discover how you can _experience a totally stress-free life_ - ...
