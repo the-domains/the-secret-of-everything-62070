@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-20T15:33:10.981Z'
-datePublished: '2017-08-20T15:33:11.903Z'
+dateModified: '2017-08-20T15:48:31.559Z'
+datePublished: '2017-08-20T15:48:32.075Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -28,6 +28,7 @@ _type: Blurb
 \* With Uncomfortable Thoughts or Feelings?
 
 \* With Knowing and Experiencing Who and What You Truly Are?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f17ec5f4-18b5-4a9d-95e5-3a43c482704c.jpg)
 
 ## If you answered **"YES" **to any of these questions ...
 
