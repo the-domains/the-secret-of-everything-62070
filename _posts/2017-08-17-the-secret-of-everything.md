@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-23T21:35:44.990Z'
-datePublished: '2017-08-23T21:35:45.602Z'
+dateModified: '2017-08-23T21:36:42.767Z'
+datePublished: '2017-08-23T21:36:43.445Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -55,7 +55,7 @@ _type: Article
 
 \* Spiritual Seeking For Enlightenment?
 
-\* Or Other Personal Development, Self-Help or Therapy Methods?
+\* Or Other Personal Development, Self-Help, Spiritual or Therapy Methods?
 
 ## Perhaps you got some good - or even great results - and then - like so many other people - you found life still isn't the way you'd like it to be?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15db266e-3544-45bd-9158-ac5ecca11a95.jpg)
