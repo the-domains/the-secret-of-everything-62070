@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-23T19:02:56.408Z'
-datePublished: '2017-08-23T19:02:57.258Z'
+dateModified: '2017-08-23T19:08:01.879Z'
+datePublished: '2017-08-23T19:08:03.681Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -55,7 +55,7 @@ _type: Article
 
 \* Spiritual Seeking - For Enlightenment?
 
-## Perhaps you got some good - or even great results - and then - like so many people - you found life still isn't the way you'd like it to be?
+## Perhaps you got some good - or even great results - and then - like so many other people - you found life still isn't the way you'd like it to be?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15db266e-3544-45bd-9158-ac5ecca11a95.jpg)
 
 ## If any of this sounds like you - then ...
