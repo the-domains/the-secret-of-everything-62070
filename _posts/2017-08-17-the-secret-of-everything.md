@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-23T15:14:49.212Z'
-datePublished: '2017-08-23T15:14:50.175Z'
+dateModified: '2017-08-23T15:21:44.745Z'
+datePublished: '2017-08-23T15:21:45.517Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -35,18 +35,32 @@ _type: Article
 
 ## Have you tried any of the following ...
 
-\* Hypnotherapy
+\* Hypnotherapy?
 
-\* Life Coaching
+\* Counselling or Psychotherapy?
 
-\* Counselling or Psychotherapy
+\* Life Coaching?
 
-## Maybe you got some good results - but been disappointed or dissatisfied things are still not the way you'd like them to be?
+\* NLP (Neurolinguistic Programming)?
 
-## If you answered **"YES" **to any of these questions ...
+\* EFT (Emotional Freedom Technique)?
+
+\* PSTEC?
+
+\* Meditation or Mindfulness?
+
+\* Spiritual Seeking - For Enlightenment?
+
+## Perhaps you got some good - or even great -
+results. 
+
+## But - have you later been disappointed or dissatisfied that your life is still not the way you'd like it to be?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c92ca887-95d0-4c59-b8a2-39318cbf4398.jpg)
+
+## If you answered **"YES" **to any of the questions ...
 
 ## The Secret of Everything online program is designed specially for you ...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6aedd72a-12fc-428d-b1f3-302b91f16af0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ba193d7-8f34-4066-ab22-2572d2a8671f.jpg)
 
 ## End ALL the struggle and _experience a totally stress-free life_ - ...
 
@@ -55,6 +69,5 @@ _type: Article
 \* _**Discover Who and What You Really Are**_ - (not what you've believed until now)!
 
 \* _**Go Even Deeper**_-- and _**Experience The Source of All Things For Yourself**_ ...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad5ea42a-5a28-48b5-9546-76472da3a2c7.png)
 
 # CLICK BELOW NOW ... to get started ...
