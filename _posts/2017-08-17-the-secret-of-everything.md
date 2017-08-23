@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-23T17:53:30.387Z'
-datePublished: '2017-08-23T17:53:31.214Z'
+dateModified: '2017-08-23T17:58:31.993Z'
+datePublished: '2017-08-23T17:58:33.221Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -56,11 +56,11 @@ _type: Article
 \* Spiritual Seeking - For Enlightenment?
 
 ## And perhaps you got some good - or even great results - but then you've found life still isn't the way you'd like it to be?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ba193d7-8f34-4066-ab22-2572d2a8671f.jpg)
 
 ## If you answered **"YES" **to any of the questions ...
 
 ## The Secret of Everything online program is designed specially for you ...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/015b27ca-7375-4bd9-880e-ab8d1a2026ac.jpg)
 
 ## End ALL the struggle and _experience a totally stress-free life_ - ...
 
