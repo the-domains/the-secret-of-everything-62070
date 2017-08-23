@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-20T16:06:14.818Z'
-datePublished: '2017-08-20T16:06:15.733Z'
+dateModified: '2017-08-23T15:14:49.212Z'
+datePublished: '2017-08-23T15:14:50.175Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -31,6 +31,17 @@ _type: Article
 \* With Uncomfortable Thoughts or Feelings?
 
 \* With Knowing and Experiencing Who and What You Truly Are?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/176e1e8f-6c06-45d6-87a2-ab159eb96638.jpg)
+
+## Have you tried any of the following ...
+
+\* Hypnotherapy
+
+\* Life Coaching
+
+\* Counselling or Psychotherapy
+
+## Maybe you got some good results - but been disappointed or dissatisfied things are still not the way you'd like them to be?
 
 ## If you answered **"YES" **to any of these questions ...
 
