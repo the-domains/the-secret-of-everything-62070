@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-23T20:25:09.337Z'
-datePublished: '2017-08-23T20:25:12.767Z'
+dateModified: '2017-08-23T20:28:59.413Z'
+datePublished: '2017-08-23T20:29:00.015Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 # The Secret of Everything
 
-## Are You Still Struggling ...
+## Are You Still Struggling or Dissatisfied ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f17ec5f4-18b5-4a9d-95e5-3a43c482704c.jpg)
 
 \* With Anxieties About The Future?
@@ -51,9 +51,11 @@ _type: Article
 
 \* Meditation or Mindfulness?
 
-\* Yoga
+\* Yoga?
 
-\* Spiritual Seeking - For Enlightenment?
+\* Spiritual Seeking For Enlightenment?
+
+\* Or Other Personal Development, Self-Help or Therapy Methods?
 
 ## Perhaps you got some good - or even great results - and then - like so many other people - you found life still isn't the way you'd like it to be?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15db266e-3544-45bd-9158-ac5ecca11a95.jpg)
@@ -63,7 +65,8 @@ _type: Article
 ## The Secret of Everything online program is designed specially for you ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/015b27ca-7375-4bd9-880e-ab8d1a2026ac.jpg)
 
-## The Secret of Everything Online Program will point you to how it's possible - and simple - to end ALL struggle - and _experience a totally stress-free life_ ...
+## The Secret of Everything Online Program will point you to how it's possible - and simple - to end ALL struggle - and _experience a totally stress-free life_ -
+so you'll ...
 
 \* _**Understand How Life Actually Works**_ - and Why Nothing Seems To Have Worked For You Until Now!
 
