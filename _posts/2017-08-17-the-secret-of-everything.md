@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-23T21:36:42.767Z'
-datePublished: '2017-08-23T21:36:43.445Z'
+dateModified: '2017-08-23T21:37:12.026Z'
+datePublished: '2017-08-23T21:37:12.792Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -57,7 +57,7 @@ _type: Article
 
 \* Or Other Personal Development, Self-Help, Spiritual or Therapy Methods?
 
-## Perhaps you got some good - or even great results - and then - like so many other people - you found life still isn't the way you'd like it to be?
+## Perhaps you got some good - or even great results - and then - like so many of us - you found life still isn't the way you'd like it to be?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15db266e-3544-45bd-9158-ac5ecca11a95.jpg)
 
 ## If any of this sounds like you - then ...
