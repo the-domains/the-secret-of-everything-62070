@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-23T15:50:16.695Z'
-datePublished: '2017-08-23T15:50:17.759Z'
+dateModified: '2017-08-23T15:56:36.786Z'
+datePublished: '2017-08-23T15:56:37.589Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -31,9 +31,11 @@ _type: Article
 \* With Uncomfortable Thoughts or Feelings?
 
 \* With Knowing and Experiencing Who and What You Truly Are?
+
+\* With Helping Others To Enjoy Life To The Full?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/176e1e8f-6c06-45d6-87a2-ab159eb96638.jpg)
 
-## Have you tried any of the following ...
+## Perhaps you've already tried ...
 
 \* Hypnotherapy?
 
@@ -49,24 +51,24 @@ _type: Article
 
 \* Meditation or Mindfulness?
 
+\* Yoga
+
 \* Spiritual Seeking - For Enlightenment?
 
-## Perhaps you got some good - or even great - results.
-
-## But - have you later been disappointed or dissatisfied that your life is still not the way you'd like it to be?
+## And perhaps you got some got some good - or even great results - but then you've been disappointed or dissatisfied that your life still isn't the way you'd like it to be?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ba193d7-8f34-4066-ab22-2572d2a8671f.jpg)
 
 ## If you answered **"YES" **to any of the questions ...
 
 ## The Secret of Everything online program is designed specially for you ...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c92ca887-95d0-4c59-b8a2-39318cbf4398.jpg)
 
 ## End ALL the struggle and _experience a totally stress-free life_ - ...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ba193d7-8f34-4066-ab22-2572d2a8671f.jpg)
 
 \* _**Understand How Life Actually Works**_ - and Why Nothing Seems To Have Worked For You Before!
 
 \* _**Discover Who and What You Really Are**_ - (not what you've believed until now)!
 
 \* _**Go Even Deeper**_-- and _**Experience The Source of All Things For Yourself**_ ...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c92ca887-95d0-4c59-b8a2-39318cbf4398.jpg)
 
 # CLICK BELOW NOW ... to get started ...
