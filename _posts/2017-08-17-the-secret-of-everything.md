@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-25T07:55:55.833Z'
-datePublished: '2017-08-25T07:55:56.857Z'
+dateModified: '2017-08-25T11:31:24.167Z'
+datePublished: '2017-08-25T11:31:24.933Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -76,4 +76,4 @@ _type: Article
 \* _**Go Even Deeper**_-- and _**Experience The Source of All Things For Yourself**_ ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abf341b4-867d-49d4-a669-f8d8babbda37.jpg)
 
-## Find out more about The Secret of Everything ...CLICK BELOW NOW ... to get started ...
+## Find out more about The Secret of Everything ...CLICK BELOW NOW ...
