@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-26T15:56:36.048Z'
-datePublished: '2017-08-26T15:56:37.090Z'
+dateModified: '2017-08-26T15:58:00.578Z'
+datePublished: '2017-08-26T15:58:01.622Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ _type: Article
 \* Or With Helping Others To Enjoy Life To The Full?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/176e1e8f-6c06-45d6-87a2-ab159eb96638.jpg)
 
-## Perhaps you've already had experience with ...
+## Have you already had experience in your personal life - or in your work with ...
 
 \* Hypnotherapy?
 
