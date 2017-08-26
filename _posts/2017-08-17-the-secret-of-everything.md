@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: · With Anxieties About The Future?
-dateModified: '2017-08-25T11:31:24.167Z'
-datePublished: '2017-08-25T11:31:24.933Z'
+dateModified: '2017-08-26T15:56:36.048Z'
+datePublished: '2017-08-26T15:56:37.090Z'
 title: The Secret of Everything
 author: []
 publisher: {}
@@ -26,13 +26,13 @@ _type: Article
 
 \* With Painful Relationships?
 
-\* With Knowing How To Enjoy Real Success and Fulfilment?
+\* With Not Knowing How To Enjoy Real Success and Fulfilment?
 
 \* With Uncomfortable Thoughts or Feelings?
 
-\* With Knowing and Experiencing Who and What You Truly Are?
+\* With Wanting To Know and To Experience Who and What You Truly Are?
 
-\* With Helping Others To Enjoy Life To The Full?
+\* Or With Helping Others To Enjoy Life To The Full?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/176e1e8f-6c06-45d6-87a2-ab159eb96638.jpg)
 
 ## Perhaps you've already had experience with ...
