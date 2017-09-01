@@ -5,8 +5,8 @@ description: >-
   myself, my relationships and my life - and doing my best - as a doctor, a
   therapist and an energy healer - to help others do the same - I finally woke
   up to the TRUTH of how life and relationships really work ..
-dateModified: '2017-09-01T08:58:48.330Z'
-datePublished: '2017-09-01T08:58:49.180Z'
+dateModified: '2017-09-01T09:01:46.579Z'
+datePublished: '2017-09-01T09:01:47.129Z'
 title: The Secret of Everything Resources
 author: []
 publisher:
@@ -33,7 +33,7 @@ _type: MediaObject
 
 ## Audio Books Around The Secret of Everything
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44fa8e7394ae8709c5dd47627ec2a8e7f7bf1d6c.php" /><h1>In Quest of the Pearl - Lone Pine Publishing</h1><p>A sequel to 'Second Chance', where Richard returns to Maui to further investigate the enigmatic words of a mystical Hawaiian lady.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44fa8e7394ae8709c5dd47627ec2a8e7f7bf1d6c.php" /><p>In Quest of the Pearl ...  A sequel to 'Second Chance', where Richard returns to Maui to further investigate the enigmatic words of a mystical Hawaiian lady. https://www.lonepinepublishing.com/cat/9780937713020</p></article>
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caf0ae2444170d3525b53a044b51e4ed582d8b.jpg" /><p>The Inside-Out Revolution: The Only Thing You Need to Know to Change Your Life Forever.
   Would you like to experience amazing clarity, peace, and freedom, even in the midst of challenging circumstances? In this groundbreaking audiobook, best-selling author Michael Neill shares an extraordinary new understanding of how life works that turns traditional psychology on its head. This rev...</p></article>
