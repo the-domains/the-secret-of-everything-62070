@@ -1,19 +1,17 @@
 ---
 inFeed: false
-description: >-
-  The Inside-Out Revolution: The Only Thing You Need to Know to Change Your Life
-  Forever.
-    Would you like to experience amazing clarity, peace, and freedom, even in the midst of challenging circumstances? In this groundbreaking audiobook, best-selling author Michael Neill shares an extraordinary new understanding of how life works that turns traditional psychology on its head. This rev...
-dateModified: '2017-09-01T09:18:42.972Z'
-datePublished: '2017-09-01T09:18:43.977Z'
+description: ''
+dateModified: '2017-09-01T11:11:11.264Z'
+datePublished: '2017-09-01T11:11:11.855Z'
 title: The Secret of Everything Resources
 author:
   - avatar: {}
 publisher:
-  url: 'https://www.amazon.co.uk'
-  name: Amazon
-  favicon: 'https://www.amazon.co.uk/favicon.ico'
-  domain: amzn.to
+  url: 'http://www.drannecurtis.cool'
+  name: Dr Anne Curtis
+  favicon: >-
+    http://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/225191/assets/favicon.png?1502566490767526?v=2
+  domain: www.drannecurtis.cool
 via: {}
 hasPage: true
 sourcePath: _posts/2017-09-01-the-secret-of-everything-resources.md
@@ -24,6 +22,10 @@ _type: MediaObject
 
 ---
 # The Secret of Everything Resources
+
+## The Secret of Everything Online Programs
+
+<article style=""><h1>Dr Anne Curtis</h1></article>
 
 ## Audio Books Around The Secret of Everything
 
