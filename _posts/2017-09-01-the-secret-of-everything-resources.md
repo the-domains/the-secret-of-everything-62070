@@ -1,11 +1,11 @@
 ---
 inFeed: false
 description: '***************************************************************************'
-dateModified: '2017-09-01T21:44:34.273Z'
-datePublished: '2017-09-01T21:44:35.386Z'
+dateModified: '2017-09-01T21:49:11.352Z'
+datePublished: '2017-09-01T21:49:12.165Z'
 title: The Secret of Everything Resources
 author:
-  - name: 'Noah Silliman '
+  - name: 'Photo By Noah Silliman '
     url: 'https://unsplash.com'
 publisher: {}
 via: {}
@@ -22,16 +22,18 @@ _type: MediaObject
 ## The Secret of Everything Online Programs
 
 ### [Discover Your True SELF ... LOVE Being You ... Have FUN ... Be Stress FREE ... Enjoy LIFE!][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3f53fc-7af9-4ef7-8028-7f1b34eb006e.jpg)
+![https://www.drannecurtis.cool](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3f53fc-7af9-4ef7-8028-7f1b34eb006e.jpg)
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 ## Audio Books Around The Secret of Everything
 
 ### The Inside Out Revolution - By Michael Neill
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caf0ae2444170d3525b53a044b51e4ed582d8b.jpg)
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caf0ae2444170d3525b53a044b51e4ed582d8b.jpg" /><p>The Inside-Out Revolution: The Only Thing You Need to Know to Change Your Life Forever.
-  Would you like to experience amazing clarity, peace, and freedom, even in the midst of challenging circumstances? In this groundbreaking audiobook, best-selling author Michael Neill shares an extraordinary new understanding of how life works that turns traditional psychology on its head. This rev...</p></article>
+### The Inside-Out Revolution: The Only Thing You Need to Know to Change Your Life Forever.
+
+Would you like to experience amazing clarity, peace, and freedom, even in the midst of challenging circumstances? In this groundbreaking audiobook, best-selling author Michael Neill shares an extraordinary new understanding of how life works that turns traditional psychology on its head. 
 
 ### The Deepest Acceptance: Radical Awakening in Ordinary Life - By Jeff Foster
 
