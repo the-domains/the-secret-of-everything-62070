@@ -1,17 +1,12 @@
 ---
 inFeed: false
 description: '***************************************************************************'
-dateModified: '2017-09-01T21:16:01.793Z'
-datePublished: '2017-09-01T21:16:02.576Z'
+dateModified: '2017-09-01T21:42:55.334Z'
+datePublished: '2017-09-01T21:42:56.158Z'
 title: The Secret of Everything Resources
 author:
   - avatar: {}
-publisher:
-  url: 'http://www.drannecurtis.cool'
-  name: Dr Anne Curtis
-  favicon: >-
-    http://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/225191/assets/favicon.png?1502566490767526?v=2
-  domain: www.drannecurtis.cool
+publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-09-01-the-secret-of-everything-resources.md
@@ -25,7 +20,8 @@ _type: MediaObject
 
 ## The Secret of Everything Online Programs
 
-<article style=""><p>Be Stress FREE ... Discover Your True SELF ... LOVE Being You ... Have FUN ... Enjoy LIFE!</p></article>
+### [Discover Your True SELF ... LOVE Being You ... Have FUN ... Be Stress FREE ... Enjoy LIFE!][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3f53fc-7af9-4ef7-8028-7f1b34eb006e.jpg)
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
@@ -53,3 +49,7 @@ _type: MediaObject
 > Dr Anne Curtis Facebook Page - After 30+ years of constantly trying to fix myself, my relationships and my life - and doing my best - as a doctor, a therapist and an energy healer - to help others do the same - I finally woke up to the TRUTH of how life and relationships really work ..
 
 > 3 Principles Resources Facebook Group ....... This group is open to anyone who would like to share or to find resources relating to the 3 Principles Understanding - as shared originally by Sydney Banks. You can download a copy of the latest version of the 3 Principles Essential Resources Guide - which includes resources about what the 3 Principles are - if you haven't heard of them before - at ...
+
+
+
+[0]: http://drannecurtis.cool/
