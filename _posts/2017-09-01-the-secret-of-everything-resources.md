@@ -1,13 +1,17 @@
 ---
 inFeed: false
-description: >-
-  ***********************************************************************************
-dateModified: '2017-09-01T21:04:31.655Z'
-datePublished: '2017-09-01T21:04:32.708Z'
+description: '***************************************************************************'
+dateModified: '2017-09-01T21:12:43.065Z'
+datePublished: '2017-09-01T21:12:44.038Z'
 title: The Secret of Everything Resources
 author:
   - avatar: {}
-publisher: {}
+publisher:
+  url: 'http://www.drannecurtis.cool'
+  name: Dr Anne Curtis
+  favicon: >-
+    http://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/225191/assets/favicon.png?1502566490767526?v=2
+  domain: www.drannecurtis.cool
 via: {}
 hasPage: true
 sourcePath: _posts/2017-09-01-the-secret-of-everything-resources.md
@@ -20,11 +24,10 @@ _type: MediaObject
 # The Secret of Everything Resources
 
 ## The Secret of Everything Online Programs
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d64b6c3b-3ec2-41b1-99a5-f8a00d86adfc.png)
 
-<article style=""><p>My  aim here at DrAnneCurtis.COOL is to share with you the Secret - that was never actually a "secret" - the secret that will allow you to hear, see - and most of all experience - more fun - more clarity - more peace of mind - more success - better health - more happiness - and especially more love - without any stress!!!</p></article>
+<article style=""><p>Be Stress FREE ... Discover Your True SELF ... LOVE Being You ... Have FUN ... Enjoy LIFE!</p></article>
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 ## Audio Books Around The Secret of Everything
 
