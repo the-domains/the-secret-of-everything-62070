@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   A sequel to 'Second Chance', where Richard returns to Maui to further
   investigate the enigmatic words of a mystical Hawaiian lady.
-dateModified: '2017-09-01T07:50:20.328Z'
-datePublished: '2017-09-01T07:50:36.057Z'
+dateModified: '2017-09-01T07:51:12.067Z'
+datePublished: '2017-09-01T07:51:12.493Z'
 title: The Secret of Everything Resources
 author: []
 publisher:
@@ -14,9 +14,9 @@ publisher:
   domain: www.lonepinepublishing.com
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-01-the-secret-of-everything-resources.md
 starred: false
 datePublishedOriginal: '2017-09-01T07:50:36.057Z'
-sourcePath: _posts/2017-09-01-the-secret-of-everything-resources.md
 url: the-secret-of-everything-resources/index.html
 _type: MediaObject
 
