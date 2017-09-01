@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: '***************************************************************************'
-dateModified: '2017-09-01T21:14:23.474Z'
-datePublished: '2017-09-01T21:14:24.296Z'
+dateModified: '2017-09-01T21:15:07.828Z'
+datePublished: '2017-09-01T21:15:08.804Z'
 title: The Secret of Everything Resources
 author:
   - avatar: {}
@@ -39,6 +39,8 @@ _type: MediaObject
 ### The Deepest Acceptance: Radical Awakening in Ordinary Life - By Jeff Foster
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/208677be8b784c6638b1755cd33b7ed827889860.jpg" /><p>The Deepest Acceptance: Radical Awakening in Ordinary Life ..... Out of Suffering and into What Has Already Been Allowed How can we bring an effortless yes to this moment? How do we stop running from "the mess of life"-our predicaments, our frustrations, even our search for liberation-and start flowing with all of it? In small venues throughout the UK and Euro...</p></article>
+
+### In Quest of The Pearl - By Sydney Banks
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44fa8e7394ae8709c5dd47627ec2a8e7f7bf1d6c.php" /><p>In Quest of the Pearl ...  A sequel to 'Second Chance', where Richard returns to Maui to further investigate the enigmatic words of a mystical Hawaiian lady. https://www.lonepinepublishing.com/cat/9780937713020</p></article>
 
