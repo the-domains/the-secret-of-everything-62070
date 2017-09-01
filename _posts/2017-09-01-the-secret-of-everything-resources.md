@@ -5,8 +5,8 @@ description: >-
   myself, my relationships and my life - and doing my best - as a doctor, a
   therapist and an energy healer - to help others do the same - I finally woke
   up to the TRUTH of how life and relationships really work ..
-dateModified: '2017-09-01T09:03:22.027Z'
-datePublished: '2017-09-01T09:03:23.305Z'
+dateModified: '2017-09-01T09:06:17.469Z'
+datePublished: '2017-09-01T09:06:18.566Z'
 title: The Secret of Everything Resources
 author: []
 publisher:
@@ -37,3 +37,5 @@ _type: MediaObject
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caf0ae2444170d3525b53a044b51e4ed582d8b.jpg" /><p>The Inside-Out Revolution: The Only Thing You Need to Know to Change Your Life Forever.
   Would you like to experience amazing clarity, peace, and freedom, even in the midst of challenging circumstances? In this groundbreaking audiobook, best-selling author Michael Neill shares an extraordinary new understanding of how life works that turns traditional psychology on its head. This rev...</p></article>
+
+<article style=""><img src="https://images-eu.ssl-images-amazon.com/images/I/51u8FEGOMdL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(30%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg" /><p>The Deepest Acceptance: Radical Awakening in Ordinary Life ..... Out of Suffering and into What Has Already Been Allowed How can we bring an effortless yes to this moment? How do we stop running from "the mess of life"-our predicaments, our frustrations, even our search for liberation-and start flowing with all of it? In small venues throughout the UK and Euro...</p></article>
