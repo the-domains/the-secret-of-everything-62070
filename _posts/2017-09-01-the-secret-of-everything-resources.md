@@ -5,8 +5,8 @@ description: >-
   myself, my relationships and my life - and doing my best - as a doctor, a
   therapist and an energy healer - to help others do the same - I finally woke
   up to the TRUTH of how life and relationships really work ..
-dateModified: '2017-09-01T09:01:46.579Z'
-datePublished: '2017-09-01T09:01:47.129Z'
+dateModified: '2017-09-01T09:03:22.027Z'
+datePublished: '2017-09-01T09:03:23.305Z'
 title: The Secret of Everything Resources
 author: []
 publisher:
