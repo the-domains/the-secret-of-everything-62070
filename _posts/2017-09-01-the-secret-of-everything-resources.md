@@ -5,8 +5,8 @@ description: >-
   myself, my relationships and my life - and doing my best - as a doctor, a
   therapist and an energy healer - to help others do the same - I finally woke
   up to the TRUTH of how life and relationships really work ..
-dateModified: '2017-09-01T08:57:45.898Z'
-datePublished: '2017-09-01T08:57:46.421Z'
+dateModified: '2017-09-01T08:58:36.365Z'
+datePublished: '2017-09-01T08:58:37.498Z'
 title: The Secret of Everything Resources
 author: []
 publisher:
@@ -29,7 +29,7 @@ _type: MediaObject
 
 > Dr Anne Curtis Facebook Page - After 30+ years of constantly trying to fix myself, my relationships and my life - and doing my best - as a doctor, a therapist and an energy healer - to help others do the same - I finally woke up to the TRUTH of how life and relationships really work ..
 
-> This group is open to anyone who would like to share or to find resources relating to the 3 Principles Understanding - as shared originally by Sydney Banks. You can download a copy of the latest version of the 3 Principles Essential Resources Guide - which includes resources about what the 3 Principles are - if you haven't heard of them before - at ...
+> 3 Principles Resources Facebook Group ....... This group is open to anyone who would like to share or to find resources relating to the 3 Principles Understanding - as shared originally by Sydney Banks. You can download a copy of the latest version of the 3 Principles Essential Resources Guide - which includes resources about what the 3 Principles are - if you haven't heard of them before - at ...
 
 ## Audio Books Around The Secret of Everything
 
