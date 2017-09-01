@@ -1,8 +1,13 @@
 ---
 inFeed: false
-description: ''
-dateModified: '2017-09-01T11:12:25.843Z'
-datePublished: '2017-09-01T11:12:27.271Z'
+description: >-
+  My  aim here at DrAnneCurtis.COOL is to share with you the Secret - that was
+  never actually a "secret" - the secret that will allow you to hear, see - and
+  most of all experience - more fun - more clarity - more peace of mind - more
+  success - better health - more happiness - and especially more love - without
+  any stress!!!
+dateModified: '2017-09-01T11:21:09.067Z'
+datePublished: '2017-09-01T11:21:09.965Z'
 title: The Secret of Everything Resources
 author:
   - avatar: {}
@@ -25,7 +30,7 @@ _type: MediaObject
 
 ## The Secret of Everything Online Programs
 
-<article style=""><h1>Dr Anne Curtis</h1></article>
+<article style=""><p>My  aim here at DrAnneCurtis.COOL is to share with you the Secret - that was never actually a "secret" - the secret that will allow you to hear, see - and most of all experience - more fun - more clarity - more peace of mind - more success - better health - more happiness - and especially more love - without any stress!!!</p></article>
 
 ## Audio Books Around The Secret of Everything
 
