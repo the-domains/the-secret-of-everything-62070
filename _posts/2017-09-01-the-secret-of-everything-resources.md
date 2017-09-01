@@ -1,8 +1,9 @@
 ---
 inFeed: false
-description: ''
-dateModified: '2017-09-01T21:03:05.922Z'
-datePublished: '2017-09-01T21:03:06.838Z'
+description: >-
+  ***********************************************************************************
+dateModified: '2017-09-01T21:04:31.655Z'
+datePublished: '2017-09-01T21:04:32.708Z'
 title: The Secret of Everything Resources
 author:
   - avatar: {}
@@ -23,7 +24,11 @@ _type: MediaObject
 
 <article style=""><p>My  aim here at DrAnneCurtis.COOL is to share with you the Secret - that was never actually a "secret" - the secret that will allow you to hear, see - and most of all experience - more fun - more clarity - more peace of mind - more success - better health - more happiness - and especially more love - without any stress!!!</p></article>
 
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 ## Audio Books Around The Secret of Everything
+
+### The Inside Out Revolution - By Michael Neill
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caf0ae2444170d3525b53a044b51e4ed582d8b.jpg" /><p>The Inside-Out Revolution: The Only Thing You Need to Know to Change Your Life Forever.
   Would you like to experience amazing clarity, peace, and freedom, even in the midst of challenging circumstances? In this groundbreaking audiobook, best-selling author Michael Neill shares an extraordinary new understanding of how life works that turns traditional psychology on its head. This rev...</p></article>
