@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: '***************************************************************************'
-dateModified: '2017-09-01T21:12:43.065Z'
-datePublished: '2017-09-01T21:12:44.038Z'
+dateModified: '2017-09-01T21:14:23.474Z'
+datePublished: '2017-09-01T21:14:24.296Z'
 title: The Secret of Everything Resources
 author:
   - avatar: {}
@@ -35,6 +35,8 @@ _type: MediaObject
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caf0ae2444170d3525b53a044b51e4ed582d8b.jpg" /><p>The Inside-Out Revolution: The Only Thing You Need to Know to Change Your Life Forever.
   Would you like to experience amazing clarity, peace, and freedom, even in the midst of challenging circumstances? In this groundbreaking audiobook, best-selling author Michael Neill shares an extraordinary new understanding of how life works that turns traditional psychology on its head. This rev...</p></article>
+
+### The Deepest Acceptance: Radical Awakening in Ordinary Life - By Jeff Foster
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/208677be8b784c6638b1755cd33b7ed827889860.jpg" /><p>The Deepest Acceptance: Radical Awakening in Ordinary Life ..... Out of Suffering and into What Has Already Been Allowed How can we bring an effortless yes to this moment? How do we stop running from "the mess of life"-our predicaments, our frustrations, even our search for liberation-and start flowing with all of it? In small venues throughout the UK and Euro...</p></article>
 
