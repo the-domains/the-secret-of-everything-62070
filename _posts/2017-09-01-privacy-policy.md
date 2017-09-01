@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Dr Anne Curtis respects the privacy concerns of the users of her website
   TheSecretofEverything.com and the services provided therein (the “Site”).
-dateModified: '2017-09-01T08:39:58.712Z'
-datePublished: '2017-09-01T08:39:59.318Z'
+dateModified: '2017-09-01T11:33:27.936Z'
+datePublished: '2017-09-01T11:33:28.775Z'
 title: Privacy Policy & Terms
 author: []
 publisher: {}
@@ -20,6 +20,7 @@ _type: Blurb
 # Privacy Policy & Terms
 
 Dr Anne Curtis respects the privacy concerns of the users of her website TheSecretofEverything.com and the services provided therein (the "Site").
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd54882-c8d0-4e75-97eb-fd17293fbb0c.png)
 
 This privacy statement is provided to explain what information is gathered during a visit to the Site and how such information may be used.
 
