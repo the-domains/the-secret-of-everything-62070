@@ -6,8 +6,8 @@ description: >-
   most of all experience - more fun - more clarity - more peace of mind - more
   success - better health - more happiness - and especially more love - without
   any stress!!!
-dateModified: '2017-09-01T11:35:32.744Z'
-datePublished: '2017-09-01T11:35:33.842Z'
+dateModified: '2017-09-01T12:13:44.820Z'
+datePublished: '2017-09-01T12:13:46.134Z'
 title: The Secret of Everything Resources
 author:
   - avatar: {}
