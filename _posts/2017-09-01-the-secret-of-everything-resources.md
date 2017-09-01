@@ -1,9 +1,14 @@
 ---
 inFeed: false
-description: The Secret of Everything Resources
-dateModified: '2017-09-01T11:35:21.592Z'
-datePublished: '2017-09-01T11:35:22.318Z'
-title: The Secret of Everything Online Programs
+description: >-
+  My  aim here at DrAnneCurtis.COOL is to share with you the Secret - that was
+  never actually a "secret" - the secret that will allow you to hear, see - and
+  most of all experience - more fun - more clarity - more peace of mind - more
+  success - better health - more happiness - and especially more love - without
+  any stress!!!
+dateModified: '2017-09-01T11:35:32.744Z'
+datePublished: '2017-09-01T11:35:33.842Z'
+title: The Secret of Everything Resources
 author:
   - avatar: {}
 publisher:
@@ -21,7 +26,7 @@ url: the-secret-of-everything-resources/index.html
 _type: MediaObject
 
 ---
-The Secret of Everything Resources
+# The Secret of Everything Resources
 
 ## The Secret of Everything Online Programs
 
