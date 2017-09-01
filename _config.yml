@@ -25,6 +25,9 @@ navigation:
   - name: Resources
     id: f690b460-1033-49be-b0f8-be66d52514a5
     type: content
+  - name: Privacy & Terms
+    id: 23910301-f565-484f-8c5d-25007cb308ac
+    type: content
 title: The Secret of Everything
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
