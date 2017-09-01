@@ -1,4 +1,3 @@
-layout_spectrum: 0.31221481879868795
 typography_spectrum: 0.24080062842485264
 color:
   brandStrength: 0.9071649619972906
@@ -11,6 +10,10 @@ color:
     - '#FEC5CC'
     - '#FFAEB7'
     - '#DD9BA9'
+github: true
+layout_spectrum: 0.31221481879868795
+name: The Secret of Everything
+url: 'http://thesecretofeverything.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +21,11 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: The Secret of Everything
+navigation:
+  - name: Resources
+    id: f690b460-1033-49be-b0f8-be66d52514a5
+    type: content
+title: The Secret of Everything
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,19 +35,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/751d250f-5cdb-4db8-9385-ff8379f3bb91.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -52,23 +59,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f5130c8-0407-4941-892b-a0d1078a2f46.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-url: 'http://thesecretofeverything.com'
-title: The Secret of Everything
 description: Experience It For Yourself - NOW ...
-github: true
