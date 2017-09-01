@@ -1,11 +1,12 @@
 ---
 inFeed: false
 description: '***************************************************************************'
-dateModified: '2017-09-01T21:42:55.334Z'
-datePublished: '2017-09-01T21:42:56.158Z'
+dateModified: '2017-09-01T21:44:34.273Z'
+datePublished: '2017-09-01T21:44:35.386Z'
 title: The Secret of Everything Resources
 author:
-  - avatar: {}
+  - name: 'Noah Silliman '
+    url: 'https://unsplash.com'
 publisher: {}
 via: {}
 hasPage: true
