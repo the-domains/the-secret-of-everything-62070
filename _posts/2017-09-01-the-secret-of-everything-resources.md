@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: '***************************************************************************'
-dateModified: '2017-09-03T18:19:05.455Z'
-datePublished: '2017-09-03T18:19:06.052Z'
+dateModified: '2017-09-03T18:20:58.033Z'
+datePublished: '2017-09-03T18:20:59.228Z'
 title: The Secret of Everything Resources
 author:
   - name: ''
@@ -30,10 +30,8 @@ _type: MediaObject
 
 ## Audio Books Around The Secret of Everything
 
-### The Inside Out Revolution - By Michael Neill
+### The Inside Out Revolution: The Only Thing You Need to Know to Change Your Life Forever.By Michael Neill
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7bad204-82d5-4150-b2e0-4c5d93c66657.jpg)
-
-### The Inside-Out Revolution: The Only Thing You Need to Know to Change Your Life Forever.
 
 ### The Deepest Acceptance: Radical Awakening in Ordinary Life - By Jeff Foster
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf8b779-9223-419f-9365-08c91c678e14.jpg)
