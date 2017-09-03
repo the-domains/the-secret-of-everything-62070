@@ -1,16 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-03T18:35:59.349Z'
-datePublished: '2017-09-03T18:35:59.991Z'
+dateModified: '2017-09-03T18:36:13.032Z'
+datePublished: '2017-09-03T18:36:13.585Z'
 title: 'Online Programs Around The Secret of Everything '
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-03-online-programs-around-the-secret-of-everything.md
+isBasedOnUrl: 'http://www.drannecurtis.cool/'
 starred: false
 datePublishedOriginal: '2017-09-03T18:35:59.991Z'
-sourcePath: _posts/2017-09-03-online-programs-around-the-secret-of-everything.md
-_type: Blurb
+_type: MediaObject
 
 ---
 ## Online Programs Around The Secret of Everything 
