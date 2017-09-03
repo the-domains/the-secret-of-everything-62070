@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: '***************************************************************************'
-dateModified: '2017-09-03T18:23:06.331Z'
-datePublished: '2017-09-03T18:23:06.888Z'
+dateModified: '2017-09-03T18:26:55.718Z'
+datePublished: '2017-09-03T18:26:56.189Z'
 title: The Secret of Everything Resources
 author:
   - name: ''
@@ -37,8 +37,7 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf8b779-9223-419f-9365-08c91c678e14.jpg)
 
 ### In Quest of The Pearl - By Sydney Banks
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44fa8e7394ae8709c5dd47627ec2a8e7f7bf1d6c.php" /><p>In Quest of the Pearl ...  A sequel to 'Second Chance', where Richard returns to Maui to further investigate the enigmatic words of a mystical Hawaiian lady. https://www.lonepinepublishing.com/cat/9780937713020</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/423d6baa-e8c2-49b6-a3ca-eeefa689b0eb.jpg)
 
 ### Audio Books By Mary Schiller - Including The Joy Formula
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac707a8c-0196-4e10-ae0c-094ef2eb8f72.jpg)
