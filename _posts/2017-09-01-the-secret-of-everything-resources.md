@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: '***************************************************************************'
-dateModified: '2017-09-03T18:14:53.700Z'
-datePublished: '2017-09-03T18:14:54.233Z'
+dateModified: '2017-09-03T18:18:22.659Z'
+datePublished: '2017-09-03T18:18:23.471Z'
 title: The Secret of Everything Resources
 author:
   - name: ''
