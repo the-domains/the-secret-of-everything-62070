@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: '***************************************************************************'
-dateModified: '2017-09-03T18:22:44.920Z'
-datePublished: '2017-09-03T18:22:45.610Z'
+dateModified: '2017-09-03T18:23:06.331Z'
+datePublished: '2017-09-03T18:23:06.888Z'
 title: The Secret of Everything Resources
 author:
   - name: ''
@@ -35,8 +35,6 @@ _type: MediaObject
 
 ### The Deepest Acceptance: Radical Awakening in Ordinary Life - By Jeff Foster
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf8b779-9223-419f-9365-08c91c678e14.jpg)
-
-### The Deepest Acceptance: Radical Awakening in Ordinary Life .....
 
 ### In Quest of The Pearl - By Sydney Banks
 
