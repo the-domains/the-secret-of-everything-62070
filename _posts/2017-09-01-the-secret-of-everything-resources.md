@@ -2,8 +2,8 @@
 inFeed: false
 description: >-
   *******************************************************************************
-dateModified: '2017-09-03T18:45:27.186Z'
-datePublished: '2017-09-03T18:45:27.896Z'
+dateModified: '2017-09-03T19:03:32.997Z'
+datePublished: '2017-09-03T19:03:33.982Z'
 title: The Secret of Everything Resources
 author:
   - name: ''
@@ -20,12 +20,9 @@ _type: MediaObject
 ---
 # The Secret of Everything Resources
 
-## Online Programs Around The Secret of Everything
+## [Online Programs Around The Secret of Everything][0]
 
-## Audio Books Around The Secret of Everything
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7bad204-82d5-4150-b2e0-4c5d93c66657.jpg)
-
-### The Deepest Acceptance: Radical Awakening in Ordinary Life - By Jeff Foster
+## [Audio Books Around The Secret of Everything][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf8b779-9223-419f-9365-08c91c678e14.jpg)
 
 ### In Quest of The Pearl - By Sydney Banks
@@ -41,3 +38,8 @@ _type: MediaObject
 > Dr Anne Curtis Facebook Page - After 30+ years of constantly trying to fix myself, my relationships and my life - and doing my best - as a doctor, a therapist and an energy healer - to help others do the same - I finally woke up to the TRUTH of how life and relationships really work ..
 
 > 3 Principles Resources Facebook Group ....... This group is open to anyone who would like to share or to find resources relating to the 3 Principles Understanding - as shared originally by Sydney Banks. You can download a copy of the latest version of the 3 Principles Essential Resources Guide - which includes resources about what the 3 Principles are - if you haven't heard of them before - at ...
+
+
+
+[0]: http://thesecretofeverything.com/online-programs-around-the-secret-of-everything
+[1]: http://thesecretofeverything.com/audio-books-around-the-secret-of-everything/
