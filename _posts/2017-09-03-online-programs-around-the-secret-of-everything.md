@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-09-03T19:07:43.837Z'
-datePublished: '2017-09-03T19:07:44.221Z'
+dateModified: '2017-09-03T19:08:36.709Z'
+datePublished: '2017-09-03T19:08:37.164Z'
 title: Online Programs Around The Secret of Everything
 author: []
 publisher: {}
@@ -20,8 +20,6 @@ _type: MediaObject
 ## [The Secret of Everything On-Line Program][0]
 
 ### Discover Your True SELF ... LOVE Being You ... Have FUN ... Be Stress FREE ... Enjoy LIFE!
-
-### The Secret of Everything Online ProgramsDiscover Your True SELF ... LOVE Being You ... Have FUN ... Be Stress FREE ... Enjoy LIFE!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e839036-30e8-4544-8ccc-bafdb7b2b23e.jpg)
 
 [0]: https://www.drannecurtis.cool/
