@@ -2,8 +2,8 @@
 inFeed: false
 description: >-
   *******************************************************************************
-dateModified: '2017-09-03T19:13:16.432Z'
-datePublished: '2017-09-03T19:13:16.928Z'
+dateModified: '2017-09-03T19:14:17.385Z'
+datePublished: '2017-09-03T19:14:17.984Z'
 title: The Secret of Everything Resources
 author:
   - name: ''
@@ -22,7 +22,7 @@ _type: MediaObject
 
 ## [Online Programs Around The Secret of Everything][0]
 
-## [Audio Books Around The Secret of Everything][1]
+## [Audio Books Around The Secret of Everything][0]
 
 ### In Quest of The Pearl - By Sydney Banks
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/423d6baa-e8c2-49b6-a3ca-eeefa689b0eb.jpg)
@@ -41,4 +41,3 @@ _type: MediaObject
 
 
 [0]: http://thesecretofeverything.com/online-programs-around-the-secret-of-everything
-[1]: http://thesecretofeverything.com/online-programs-around-the-secret-of-everything/
