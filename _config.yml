@@ -22,6 +22,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: On Line Programs
+    id: d748f284-5e92-4a30-90ef-3029a5b84224
+    type: content
   - name: Books
     id: f690b460-1033-49be-b0f8-be66d52514a5
     type: content
@@ -33,9 +36,6 @@ navigation:
     type: content
   - name: Privacy & Terms
     id: 23910301-f565-484f-8c5d-25007cb308ac
-    type: content
-  - name: On Line Programs
-    id: d748f284-5e92-4a30-90ef-3029a5b84224
     type: content
 title: The Secret of Everything
 content:
