@@ -2,8 +2,8 @@
 inFeed: false
 description: >-
   *******************************************************************************
-dateModified: '2017-09-05T10:53:33.004Z'
-datePublished: '2017-09-05T10:53:33.421Z'
+dateModified: '2017-09-05T10:53:49.833Z'
+datePublished: '2017-09-05T10:53:50.598Z'
 title: 'Books Around The Secret of Everything '
 author:
   - name: ''
