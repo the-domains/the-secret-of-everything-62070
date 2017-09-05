@@ -2,9 +2,9 @@
 inFeed: false
 description: >-
   *******************************************************************************
-dateModified: '2017-09-05T10:53:49.833Z'
-datePublished: '2017-09-05T10:53:50.598Z'
-title: 'Books Around The Secret of Everything '
+dateModified: '2017-09-05T10:54:39.339Z'
+datePublished: '2017-09-05T10:54:39.953Z'
+title: Books Around The Secret of Everything
 author:
   - name: ''
     url: ''
@@ -18,9 +18,9 @@ url: the-secret-of-everything-resources/index.html
 _type: MediaObject
 
 ---
-# Books Around The Secret of Everything 
+# Books Around The Secret of Everything
 
-### In Quest of The Pearl - By Sydney Banks
+## In Quest of The Pearl - By Sydney Banks
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c35b5b3-4e93-4ae7-8e9f-6d51d262aa77.jpg)
 
 ### Audio Books By Mary Schiller - Including The Joy Formula
