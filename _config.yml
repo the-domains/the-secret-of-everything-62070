@@ -22,7 +22,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Resources
+  - name: Books
     id: f690b460-1033-49be-b0f8-be66d52514a5
     type: content
   - name: About
