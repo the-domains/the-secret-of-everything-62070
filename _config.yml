@@ -22,14 +22,14 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Resources
+    id: f690b460-1033-49be-b0f8-be66d52514a5
+    type: content
   - name: About
     id: 752e019f-00ba-472a-a3ca-7fa58260eb2b
     type: content
   - name: Privacy & Terms
     id: 23910301-f565-484f-8c5d-25007cb308ac
-    type: content
-  - name: Resources
-    id: f690b460-1033-49be-b0f8-be66d52514a5
     type: content
   - name: Audio Books
     id: ef73d400-d52d-4f09-9b21-20d2045b07fe
